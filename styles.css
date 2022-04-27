@@ -12,3 +12,20 @@
     position: absolute;
 
 }
+
+
+.services {
+    position: absolute;
+    left: 600px; 
+	top: 40px; 
+	width: 129px;
+	 
+}
+
+
+.akcii {
+    position: absolute;
+    left: 780px; 
+	top: 40px; 
+	width: 115px;
+}
