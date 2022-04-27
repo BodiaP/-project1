@@ -8,7 +8,7 @@
 }
 
 
-.home photo {
+.homephoto {
     position: absolute;
 
 }
@@ -16,7 +16,7 @@
 
 .services {
     position: absolute;
-    left: 600px; 
+    left: 530px; 
 	top: 40px; 
 	width: 129px;
 	 
@@ -25,7 +25,22 @@
 
 .akcii {
     position: absolute;
-    left: 780px; 
+    left: 710px; 
 	top: 40px; 
-	width: 115px;
 }
+
+
+.contact {
+    position: absolute;
+    left: 830px; 
+	top: 40px; 
+}
+
+
+.company     {
+    position: absolute;
+    left: 970px; 
+	top: 40px;
+}
+
+
