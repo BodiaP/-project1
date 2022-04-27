@@ -44,3 +44,17 @@
 }
 
 
+.vhod {
+    position: absolute;
+    left: 1170px; 
+	top: 30px;
+    color: aliceblue;
+}
+
+
+.registration {
+    position: absolute;
+    left: 1130px; 
+	top: 90px;
+    color: aliceblue;
+}
