@@ -111,21 +111,64 @@ html {
 }
 
 
-.photo2 {
+.home2 {
     position: absolute;
-    filter: blur(1px);
-    left: 570px;
-    
+    left: 350px;
+    top: 1088px;
+    font-size: 22px;
 }
 
 
-.photo3 {
+.welcome {
+    left: 125px;
+    top: -100px;
     position: absolute;
-    
-    
+    text-shadow: 2px 1px 2px  #ffffff;
 }
+
+
+.linkcompany {
+    text-decoration: none;
+}
+
+
+.linkcompany:hover {
+     color: black;
+}
+
+
+.next {
+    position: absolute;
+    left: 280px;
+    top: 1153px;
+    font-size: 22px;
+}
+
 
 .interesting {
     position: absolute;
-    left: 400px;
+    left: 500px;
+    top: 1240px;
+    font-size: 26px;
+    text-decoration: underline;  
+}
+
+
+.button2 {
+    position: absolute;
+    left: 510px;
+    top: 1360px;
+    /*font-size: 22px;*/
+    background-color: rgb(247, 247, 247);
+    color: rgb(0, 0, 0);
+    padding: 7px 13px;
+    border-radius: 30px;
+    border: 1px solid rgb(0, 0, 0);
+    transition-duration: 0.4s;
+}
+
+
+.button2:hover {
+    background-color: rgb(0, 153, 255);
+    color: white;
 }
