@@ -47,17 +47,19 @@ html {
 
 .vhod {
     position: absolute;
-    left: 1170px; 
+    left: 1116px; 
 	top: 30px;
     color: aliceblue;
+    font-size: 18px;
 }
 
 
 .registration {
     position: absolute;
     left: 1116px; 
-	top: 90px;
+	top: 50px;
     color: aliceblue;
+    font-size: 18px;
 }
 
 
@@ -100,8 +102,7 @@ html {
     padding: 7px 13px;
     border-radius: 30px;
     border: 1px solid rgb(0, 0, 0);
-    transition-duration: 0.4s;
-    /*font-style: italic;*/
+    transition-duration: 0.3s;
 }
 
 
@@ -128,13 +129,14 @@ html {
 
 
 .linkcompany {
-    text-decoration: underline;
-    /*Либо можно сделать чёрным цветом с подчёркиванием*/
+    text-decoration: none;
+    color: rgb(0, 153, 255);
+    
 }
 
 
 .linkcompany:hover {
-     color: black;
+    color: black;
 }
 
 
@@ -165,7 +167,7 @@ html {
     padding: 7px 13px;
     border-radius: 30px;
     border: 1px solid rgb(0, 0, 0);
-    transition-duration: 0.4s;
+    transition-duration: 0.3s;
 }
 
 
