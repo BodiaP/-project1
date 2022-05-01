@@ -40,7 +40,7 @@ html {
 
 .company     {
     position: absolute;
-    left: 970px; 
+    left: 965px; 
 	top: 40px;
 }
 
@@ -55,7 +55,7 @@ html {
 
 .registration {
     position: absolute;
-    left: 1130px; 
+    left: 1116px; 
 	top: 90px;
     color: aliceblue;
 }
@@ -69,8 +69,8 @@ html {
 
 .one {
     position: absolute;
-    left: 400px; 
-	top: 250px;
+    left: 409px; 
+	top: 246px;
     text-shadow: 2px 1px 2px  #ffffff;
 }
 
@@ -78,22 +78,22 @@ html {
 .to {
     position: absolute;
     left: 410px; 
-	top: 310px;
+	top: 297px;
     font-size: 19px;
 }
 
 
 .vidilenie {
     color: rgb(0, 153, 255);
-    /*text-decoration: underline;*/
     font-size: 21px;
     font-weight: 1000;
+    /*text-decoration: underline;*/
 }
 
 
 .button {
     position: absolute;
-    left: 570px; 
+    left: 580px; 
 	top: 390px;
     background-color: rgb(247, 247, 247);
     color: rgb(0, 0, 0);
@@ -128,7 +128,8 @@ html {
 
 
 .linkcompany {
-    text-decoration: none;
+    text-decoration: underline;
+    /*Либо можно сделать чёрным цветом с подчёркиванием*/
 }
 
 
@@ -227,6 +228,13 @@ html {
         opacity: 0;
         transform: translate(0,20px) rotate(45deg);
     }
+}
+
+.vidilenie2 {
+    color: rgb(0, 153, 255);
+    font-size: 21px;
+    font-weight: 1000;
+    /*text-decoration: underline;*/
 }
 
 
