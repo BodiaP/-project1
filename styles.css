@@ -197,7 +197,7 @@ html {
 .arrow-7 {
     position: absolute;
     left: 570px;
-    top: 1780px;
+    top: 1770px;
     margin: 40px auto 10px auto;
     width: 38px;
     height: 100px;
@@ -236,7 +236,6 @@ html {
     color: rgb(0, 153, 255);
     font-size: 21px;
     font-weight: 1000;
-    /*text-decoration: underline;*/
 }
 
 
@@ -247,11 +246,11 @@ html {
 .container1 {
     position: relative;
     top: 220px;
-    border: 2px solid rgb(0, 0, 0);
-    background-color: #eee;
-    border-radius: 5px;
-    padding: 16px;
-    margin: 16px 0;
+    border: 1px solid rgb(0, 153, 255);
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;  /*или просто на 5 поставить*/
+    padding: 22px 20px 35px;
+    margin: 14px 0;
 }
 
 
@@ -269,18 +268,82 @@ html {
 }
 
 
-
-
 /*Далее идёт код для страницы prices.html*/
 
 
-.homephoto2 {
+.prices {
     position: absolute;
+    left: 535px;
+    top: 50px;
+    font-size: 24px;    
 }
 
 
-.header {
+.photo1 {
     position: absolute;
-    left: 510px; 
-	top: 10px;
+    top: 190px;
+}
+
+
+.woomanhair1 {
+    position: absolute;
+    top: 240px;
+    left: 680px;
+    font-size: 21px;
+}
+
+
+.woomanhair2 {
+    position: absolute;
+    top: 240px;
+    left: 1150px;
+    font-size: 21px;
+}
+
+
+.manhair1 {
+    position: absolute;
+    top: 310px;
+    left: 680px;
+    font-size: 21px;
+}
+
+
+.manhair2 {
+    position: absolute;
+    top: 310px;
+    left: 1150px;
+    font-size: 21px;
+}
+
+
+.childhair1 {
+    position: absolute;
+    top: 380px;
+    left: 680px;
+    font-size: 21px;
+}
+
+
+.childhair2 {
+    position: absolute;
+    top: 380px;
+    left: 1150px;
+    font-size: 21px;
+}
+
+
+.oldhair1 {
+    position: absolute;
+    top: 450px;
+    left: 680px;
+    font-size: 21px;
+}
+
+
+.oldhair2 {
+    position: absolute;
+    top: 450px;
+    left: 1150px;
+    font-size: 21px;
 }
