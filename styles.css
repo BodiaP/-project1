@@ -244,11 +244,12 @@ html {
 
 
 .container1 {
+    
     position: relative;
     top: 220px;
     border: 1px solid rgb(0, 153, 255);
     background-color: rgb(255, 255, 255);
-    border-radius: 50px;  /*или просто на 5 поставить*/
+    border-radius: 30px; 
     padding: 22px 20px 35px;
     margin: 14px 0;
 }
