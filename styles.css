@@ -272,23 +272,52 @@ html {
 /*Далее идёт код для страницы prices.html*/
 
 
-.prices {
+.vhod2 {
     position: absolute;
-    left: 535px;
-    top: 50px;
-    font-size: 24px;    
+    left: 1116px; 
+	top: 30px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
 }
+
+
+.registration2 {
+    position: absolute;
+    left: 1116px; 
+	top: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+
+.prices {
+    left: -20px;
+    position: absolute;
+    top: -5px;
+    color: rgb(0, 153, 255);
+    font-size: 21px;
+}
+
+
+.prices:hover {
+    color: black;
+}
+
+
+
+/*Снизу начинается контент*/
+
 
 
 .photo1 {
     position: absolute;
-    top: 190px;
+    top: 200px;
 }
 
 
 .woomanhair1 {
     position: absolute;
-    top: 240px;
+    top: 260px;
     left: 680px;
     font-size: 21px;
 }
@@ -296,7 +325,7 @@ html {
 
 .woomanhair2 {
     position: absolute;
-    top: 240px;
+    top: 260px;
     left: 1150px;
     font-size: 21px;
 }
@@ -304,7 +333,7 @@ html {
 
 .manhair1 {
     position: absolute;
-    top: 310px;
+    top: 330px;
     left: 680px;
     font-size: 21px;
 }
@@ -312,7 +341,7 @@ html {
 
 .manhair2 {
     position: absolute;
-    top: 310px;
+    top: 330px;
     left: 1150px;
     font-size: 21px;
 }
@@ -320,7 +349,7 @@ html {
 
 .childhair1 {
     position: absolute;
-    top: 380px;
+    top: 400px;
     left: 680px;
     font-size: 21px;
 }
@@ -328,7 +357,7 @@ html {
 
 .childhair2 {
     position: absolute;
-    top: 380px;
+    top: 400px;
     left: 1150px;
     font-size: 21px;
 }
@@ -336,7 +365,7 @@ html {
 
 .oldhair1 {
     position: absolute;
-    top: 450px;
+    top: 470px;
     left: 680px;
     font-size: 21px;
 }
@@ -344,7 +373,18 @@ html {
 
 .oldhair2 {
     position: absolute;
-    top: 450px;
+    top: 470px;
     left: 1150px;
     font-size: 21px;
+}
+
+
+
+/*Вторая часть*/
+
+
+.photo2 {
+    position: absolute;
+    top: 540px;
+    left: 640px;
 }
