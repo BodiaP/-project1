@@ -244,7 +244,6 @@ html {
 
 
 .container1 {
-    
     position: relative;
     top: 220px;
     border: 1px solid rgb(0, 153, 255);
@@ -317,7 +316,7 @@ html {
 
 .woomanhair1 {
     position: absolute;
-    top: 260px;
+    top: 230px;
     left: 680px;
     font-size: 21px;
 }
@@ -325,7 +324,7 @@ html {
 
 .woomanhair2 {
     position: absolute;
-    top: 260px;
+    top: 230px;
     left: 1150px;
     font-size: 21px;
 }
@@ -333,7 +332,7 @@ html {
 
 .manhair1 {
     position: absolute;
-    top: 330px;
+    top: 300px;
     left: 680px;
     font-size: 21px;
 }
@@ -341,7 +340,7 @@ html {
 
 .manhair2 {
     position: absolute;
-    top: 330px;
+    top: 300px;
     left: 1150px;
     font-size: 21px;
 }
@@ -349,7 +348,7 @@ html {
 
 .childhair1 {
     position: absolute;
-    top: 400px;
+    top: 370px;
     left: 680px;
     font-size: 21px;
 }
@@ -357,7 +356,7 @@ html {
 
 .childhair2 {
     position: absolute;
-    top: 400px;
+    top: 370px;
     left: 1150px;
     font-size: 21px;
 }
@@ -365,7 +364,7 @@ html {
 
 .oldhair1 {
     position: absolute;
-    top: 470px;
+    top: 440px;
     left: 680px;
     font-size: 21px;
 }
@@ -373,7 +372,7 @@ html {
 
 .oldhair2 {
     position: absolute;
-    top: 470px;
+    top: 440px;
     left: 1150px;
     font-size: 21px;
 }
@@ -387,4 +386,84 @@ html {
     position: absolute;
     top: 540px;
     left: 640px;
+}
+
+
+.beard1 {
+    position: absolute;
+    top: 570px;
+    left: 40px;
+    font-size: 21px;
+}
+
+
+.beard2 {
+    position: absolute;
+    top: 570px;
+    left: 500px;
+    font-size: 21px;
+}
+
+
+.riskibeard1 {
+    position: absolute;
+    top: 630px;
+    left: 40px;
+    font-size: 21px;
+}
+
+
+.riskibeard2 {
+    position: absolute;
+    top: 630px;
+    left: 500px;
+    font-size: 21px;
+}
+
+
+.paintinghair1 {
+    position: absolute;
+    top: 690px;
+    left: 40px;
+    font-size: 21px;
+}
+
+
+.paintinghair2 {
+    position: absolute;
+    top: 690px;
+    left: 500px;
+    font-size: 21px;
+}
+
+
+.model1 {
+    position: absolute;
+    top: 750px;
+    left: 40px;
+    font-size: 21px;
+}
+
+
+.model2 {
+    position: absolute;
+    top: 750px;
+    left: 500px;
+    font-size: 21px;
+}
+
+
+.trim1 {
+    position: absolute;
+    top: 810px;
+    left: 40px;
+    font-size: 21px;
+}
+
+
+.trim2 {
+    position: absolute;
+    top: 810px;
+    left: 500px;
+    font-size: 21px;
 }
