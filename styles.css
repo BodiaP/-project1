@@ -594,9 +594,87 @@ html {
 }
 
 
+.organizacia {
+    position: absolute;
+    top: 930px;
+    left: 750px;
+    font-size: 24px;
+}
+
+
+.ip1 {
+    position: absolute;
+    top: 1010px;
+    left: 750px;
+    font-size: 18px;
+}
+
+
+.ip2 {
+    position: absolute;
+    top: 1050px;
+    left: 750px;
+    font-size: 18px;
+}
+
+
 .maps {
     position: absolute;
     top: 1180px;
     left: 150px;
     font-size: 18px;
 }
+
+
+/*Полоски и фон*/
+
+
+
+.sky1 {
+    position: absolute;
+    top: 325px;
+    left: 150px;
+}
+
+
+.sky2 {
+    position: absolute;
+    top: 325px;
+    left: 750px;
+}
+
+
+.sky3 {
+    position: absolute;
+    top: 655px;
+    left: 150px;
+}
+
+
+.sky4 {
+    position: absolute;
+    top: 655px;
+    left: 750px;
+}
+
+
+.sky5 {
+    position: absolute;
+    top: 985px;
+    left: 150px;
+}
+
+
+.sky6 {
+    position: absolute;
+    top: 985px;
+    left: 750px;
+}
+
+/*
+.bgc1 {
+    position: absolute;
+    top: 860px;
+    left: 730px;
+}
+*/
