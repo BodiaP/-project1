@@ -467,3 +467,136 @@ html {
     left: 500px;
     font-size: 21px;
 }
+
+
+
+/*Далее код для страницы contakts.html*/
+
+
+
+.reviews {
+    position: absolute;
+    top: 270px;
+    left: 150px;
+    font-size: 24px;
+}
+
+
+.telephone1 {
+    position: absolute;
+    top: 350px;
+    left: 150px;
+    font-size: 18px;
+}
+
+
+.Email1 {
+    position: absolute;
+    top: 390px;
+    left: 150px;
+    font-size: 18px;
+}
+
+
+.kadr {
+    position: absolute;
+    top: 270px;
+    left: 750px;
+    font-size: 24px;
+}
+
+
+.telephone2 {
+    position: absolute;
+    top: 350px;
+    left: 750px;
+    font-size: 18px;
+}
+
+
+.Email2 {
+    position: absolute;
+    top: 390px;
+    left: 750px;
+    font-size: 18px;
+}
+
+
+.biznes {
+    position: absolute;
+    top: 600px;
+    left: 150px;
+    font-size: 24px;
+}
+
+
+.telephone3 {
+    position: absolute;
+    top: 680px;
+    left: 150px;
+    font-size: 18px;
+}
+
+
+.Email3 {
+    position: absolute;
+    top: 720px;
+    left: 150px;
+    font-size: 18px;
+}
+
+
+.cmi {
+    position: absolute;
+    top: 600px;
+    left: 750px;
+    font-size: 24px;
+}
+
+
+.telephone4 {
+    position: absolute;
+    top: 680px;
+    left: 750px;
+    font-size: 18px;
+}
+
+
+.Email4 {
+    position: absolute;
+    top: 720px;
+    left: 750px;
+    font-size: 18px;
+}
+
+
+.adress {
+    position: absolute;
+    top: 930px;
+    left: 150px;
+    font-size: 24px;
+}
+
+
+.izhevsk1 {
+    position: absolute;
+    top: 1010px;
+    left: 150px;
+    font-size: 18px;
+}
+
+
+.izhevsk2 {
+    position: absolute;
+    top: 1050px;
+    left: 150px;
+    font-size: 18px;
+}
+
+
+.maps {
+    position: absolute;
+    top: 1180px;
+    left: 150px;
+    font-size: 18px;
+}
