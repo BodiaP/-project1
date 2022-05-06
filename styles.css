@@ -268,6 +268,89 @@ html {
 }
 
 
+.footer1{
+    position: relative;
+    top: 800px;
+}
+
+
+
+.footerimg {
+    position: absolute;
+    top: 1000px;
+}
+
+
+.footernamber {
+    position: absolute;
+    top: 1020px;
+    left: 625px;
+}
+
+
+.footeremail {
+    position: absolute;
+    top: 1065px;
+    left: 490px;
+}
+
+
+.footerinst {
+    position: absolute;
+    top: 1020px;
+    left: 490px;
+}
+
+
+.footerface {
+    position: absolute;
+    top: 1020px;
+    left: 530px;
+}
+
+
+.footertg {
+    position: absolute;
+    top: 1020px;
+    left: 570px;
+}
+
+
+.footerwats {
+    position: absolute;
+    top: 1060px;
+    left: 660px;
+}
+
+
+.footerwk {
+    position: absolute;
+    top: 1060px;
+    left: 700px;
+}
+
+
+.footerodnok {
+    position: absolute;
+    top: 1060px;
+    left: 740px;
+}
+
+
+.footerip {
+    position: absolute;
+    top: 1110px;
+    left: 530px;
+}
+
+
+.prava {
+    position: absolute;
+    top: 1140px;
+    left: 520px;
+}
+
+
 /*Далее идёт код для страницы prices.html*/
 
 
